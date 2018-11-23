@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">Stellarium</string>
+    <string-array name="macam_planet">
+        <item>Merkurius</item>
+        <item>Venus</item>
+        <item>Bumi</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturnus</item>
+        <item>Uranus</item>
+        <item>Neptunus</item>
+        <item>Pluto</item>
+    </string-array>
+
+    <string-array name="detail_planet">
+        <item>Merkurius
+
+            Nama planet Merkurius berasal dari nama dewa kurir kerajaan Romawi. Planet Merkurius merupakan planet yang terletak paling dekat dengan Matahari, hal ini yang membuat suhu permukaan planet Merkurius pada siang hari mencapai 400 derajat celcius dan malam hari turun hingga 180 derajat celcius. Pengertian planet Merkurius adalah planet terkecil, namun memiliki berat yang hampir sama dengan bumi. Hal ini karena Planet Merkurius merupakan planet yang tersusun dari besi yang sangat besar hingga berdiameter 3.600 km. Waktu yang paling tepat apabila ingin mengamati Planet Merkurius adalah saat menjelang pagi atau senja.
+
+Ciri-Ciri Planet Merkurius
+1) Kala revolusi 88 hari.
+2) Kala rotasi 58,64 hari.
+3) Suhu rata-rata 167 derajat celcius.
+4) Memiliki diamater 4.879 km.
+5) Tidak memiliki satelit.
+6) Tidak mempunyai cincin.
+7) Jarak rata-rata dari Matahari 57,9 juta km.</item>
+        <item>Venus
+
+            Nama planet Venus berasal dari nama dewi cinta dan kecantikan bangsa Romawi. Planet Venus juga dikenal dengan sebutan bintang sore atau bintang kejora. Disebut dengan bintang sore atau bintang kejora karena Venus dapat diamati pada saat petang hari dan sebelum matahari terbit. Venus terlihat seperti bintang pada waktu langit malam, hal ini karena Venus memiliki lapisan atmosfer yang tebal dan memantulkan sinar matahari. Planet Venus adalah planet terpanas, karea mempunyai suhu yang dapat mencapai lebih dari 470 derajat celcius. Planet Venus adalah satu-satunya planet yang arah berputarnya searah jarum jam.
+
+Ciri-Ciri Planet Venus
+1) Kala revolusi 224,7 hari.
+2) Kala rotasi 243 hari.
+3) Memiliki diamater 12.104 km.
+4) Jarak rata-rata dan matahari 108,2 juta km.
+5) Tidak mempunyai cincin.
+6) Matahari terbit dari barat, disebabkan karena arah rotasi Planet Venus dari timur ke barat.
+7) Tidak memiliki satelit.
+8) Suhu rata-rata 464 derajat celcius.
+9) Planet Venus adalah planet terpanas dan ditutupi awan tebal karbondioksida. Apabila ada radiasi dari matahari, maka radiasi tersebut sulit untuk keluar.</item>
+        <item>Bumi
+
+            Pengertian planet Bumi adalah planet yang dapat dihuni. Planet Bumi memiliki suhu yang relatif tetap. Sehingga suhu yang tetap tersebut dapat menjaga agar air tetap tersedia dan menjaga berbagai organisme yang merupakan penghasil oksigen untuk tetap hidup. Ketebalan atmosfer Bumi mencapai 700 km yang sebagian besar adalah oksigen dan nitrogen. Sekitar lebih dari 70% permukaan Bumi adalah air.
+
+Ciri-Ciri Planet Bumi
+1) Kala revolusi 365, 242 hari.
+2) Kala rotasi 23 jam 57 menit.
+3) Jarak rata-rata dari Matahari 149, 6 juta km.
+4) Tidak mempunyai cincin.
+5) Memiliki diamater 12.756,3 km.
+6) Planet Bumi adalah sumber kehidupan yang cocok bagi tersedianya oksigen dan air.
+7) Mempunyai 1 satelit.
+8) Suhu rata-rata 15 derajat celcius.
+9) Memiliki warna biru, karena terdapat partikel udara di atmosfer yang dapat memantulkan cahaya berwarna biru.</item>
+        <item>Mars
+
+            Nama planet Mars berasal dari nama dewa perang dan legenda bangsa Romawi. Planet Mars dijuluki planet merah. Hal ini karena permukaan Planet Mars yang mempunyai warna merah karena besarnya berkarat pada seluruh permukaan Planet Mars tersebut. Permukaan planet Mars terdiri dari gunung berapi berukuran besar, sungai kering, lembah, dan lapisan es. Planet Mars mempunyai dua satelit berukuran kecil, yaitu Phobos dan Deimos.
+
+Ciri-Ciri Planet Mars
+1) Kala revolusi 11 tahun 10 bulan 3 hari.
+2) Kala rotasi 9 jam 56 menit.
+3) Memiliki 2 satelit.
+4) Tidak mempunyai cincin.
+5) Tersusun dari karbondioksida yang tipis.
+6) Suhu rata-rata -65 derajat celcius.
+7) Memiliki diameter 6.794 km.
+8) Jarak rata-rata dari Matahari 227,9 juta km.</item>
+        <item>jupiter
+
+            Planet Jupiter sering disebut dengan Planet Zeus yang berasal dari nama raja dewa bangsa Yunani kuno. Pengertian planet Yupiter adalah planet paling besar dalam tata surya. Planet Yupiter berdiameter sekitar 11 kali dari diameter Bumi serta mempunyai berat dua kali dari jumlah berat seluruh planet dalam tata surya. Permukaan Planet Yupiter diselimuti oleh awan tebal yang sebagian besar terbentuk dari gas helium dan hidrogen. Planet Yupiter memiliki gaya tarik yang sangat besar, sehingga dapat mengubah hidrogen menjadi cair. Sedangkan inti Planet Yupiter mempunyai tekanan yang besar sehingga dapat mengubah hidrogen menjadi logam padat.
+
+Ciri-Ciri Jupiter
+1) Kala revolusi 29, 42 tahun.
+2) Kala rotasi 10 jam 40 menit.
+3) Memiliki diameter 139.822 km.
+4) Dapat memantulkan 70% cahaya matahari.
+5) Jarak rata-rata dari Matahari 778,3 juta km.
+6) Memiliki cincin.
+7) Suhu rata-rata 50 derajat celcius.
+8) Memiliki 16 satelit.
+9) Memiliki gas yang terdiri dari 90% Hidrogen dan 10% Helium.</item>
+        <item>Saturnus
+
+            Planet Saturnus tidaklah padat, karena sebagian besar penyusunnya adalah gas hidrogen dan heliumn. Hanya bagian inti Planet Saturnus yang sangat kecil terdapat batu padat. Planet Saturnus memiliki angin yang sangat kencang dibandingkan badai yang terjadi di Bumi. Angin di Saturnus yang dapat berputar-putar tanpa henti pada bagian ekuator serta mempunyai kecepatan hingga 1.100 km/jam.
+
+Ciri-Ciri Planet Saturnus
+1) Kala revolusi 29,42 tahun.
+2) Kala rotasi 10 jam 40 menit.
+3) Permukaan yang terdiri dari kristal es.
+4) Berdiameter 120.536 km.
+5) Dapat mengapung apabaila ditempatkan dalam air.
+6) Mempunyai cincin yang terdiri dari batu dan bongkahan es.
+7) Suhu rata-rata -140 derajat celcius.
+8) Jarak rata-rata dari Matahari 1433,5 juta km.
+9) Mempunyai 18 satelit.</item>
+        <item>Uranus
+
+            Nama planet Uranus diambil dari nama dewi langit yaitu Urania. Planet Uranus memiliki jarak sekitar 2.872 km dari Matahari, sehingga dapat melakukan 1 kali revolusi yang dibutuhkan sekitar 84 tahun. Planet Uranus terletak sangat jauh dari Matahari, sehingga permukaan Planet Uranus sangat dingin. Sinar Matahari membutuhkan waktu untuk mencapai Planet Uranus sekitar 2,5 jam. Saat musim panas, Matahari bersinar selama 20 Tahun, sedangkan saat musim dingin akan terjadi kegelapan yang menyelimuti lebih dari 20 tahun lamanya. Saat musim gugur, Matahari terbit dan terbenam selama setiap 9 jam.
+
+Ciri-Ciri Planet Uranus
+1) Kala revolusi 84 tahun.
+2) Kala rotasi 17 jam 14 menit.
+3) Berdiameter 50.724 km.
+4) Mempunyai cincin.
+5) Suhu rata-rata -140 derajat celcius.
+6) Sumbu rotasi yang berimpit dengan bidang orbit, kutub utara dan selatan bergantian tempat menghadap Matahari.
+7) Jarak rata-rata dari Matahari 2.872 km.
+8) Memiliki 27 satelit.
+9) Planet Uranus berwarna hijau kebiruan, karena atmosfernya mengandung metana yang sangat tebal.</item>
+        <item>Neptunus
+
+            Planet Neptunus berdiameter hingga 50.500 km. Planet Neptunus ditemukan 65 tahun setelah Planet Uranus ditemukan. Planet Neptunus mempunyai warna cerah biru kehijauan. Pengertian planet Neptunus disebut sebagai planet pembuat ulah. Planet Neptunus disebut planet pembuat ulah karena sering beredar keluar dari garis orbitnya. Planet Neptunus dikenal sebagai kembaran Planet Uranus. Planet Neptunus memiliki atmosfer yang terdiri dari 1,5% metana, 19% helium, serta 80% hidrogen. Permukaan Planet Neptunus tertutup lapisan es yang tebal. Suhu Planet Neptunus dapat mencapai -223 derajat celcius.
+
+Ciri-Ciri Planet Neptunus
+1) Kala revolusi 164,8 tahun.
+2) Kala rotasi 16 jam 7 menit.
+3) Berdiameter 50.500 km.
+4) Memiliki 14 satelit.
+5) Suhu rata-rata -223 derajat celcius.
+6) Mempunyai cincin.
+7) Jarak rata-rata dari Matahari adalah 4.500 juta km.
+8) Mempunyai orbit yang berbarisan dengan Pluto.
+9) Atmosfer yang terdiri dari helium, gas hidrogen, es, amoniak, metana, dan air</item>
+        <item>Pluto
+
+            Pluto adalah planet katai di sabuk Kuiper dan objek trans-Neptunus pertama yang ditemukan. Pluto merupakan planet katai terbesar dan bermassa terbesar kedua di Tata Surya dan benda terbesar kesembilan dan bermassa terbesar kesepuluh yang mengorbit Matahari secara langsung. Pluto merupakan objek trans-Neptunus dengan volume terbesar dan massa yang sedikit lebih kecil daripada Eris, planet katai di piringan tersebar. Layaknya objek lain di sabuk Kuiper, Pluto terdiri dari batu dan es dan relatif kecil—kurang lebih seperenam massa Bulan dan sepertiga volume Bulan. Pluto memiliki orbit eksentris dan miring dengan jarak 30 sampai 49 satuan astronomi (4,4–7,3 miliar km) dari Matahari. Ini berarti ada saatnya Pluto lebih dekat ke Matahari daripada Neptunus; resonansi orbit yang stabil dengan Neptunus membuat kedua planet ini tidak bertabrakan. Pada tahun 2014, Pluto berjarak 32,6 sa dari Matahari. Cahaya Matahari butuh waktu 5,5 jam untuk mencapai Pluto pada jarak rata-ratanya (39,4 sa).
+Pluto ditemukan tahun 1930 dan awalnya dinyatakan sebagai planet kesembilan dari Matahari. Setelah 1992, status planetnya dipertanyakan setelah para astronom menemukan sabuk Kuiper, lingkaran objek di luar Neptunus yang mencakup Pluto dan benda-benda lainnya. Tahun 2005, Eris, yang massanya 27% lebih besar daripada Pluto, ditemukan. Persatuan Astronomi Internasional (IAU) mengeluarkan definisi resmi "planet" untuk pertama kalinya pada tahun 2006.[15] Pluto tidak sesuai dengan definisi ini dan dipindahkan ke golongan "planet katai" yang baru saja dibuat, lebih tepatnya plutoid. Sejumlah astronom meyakini bahwa Pluto masih dianggap sebagai planet.</item>
+    </string-array>
+</resources>
